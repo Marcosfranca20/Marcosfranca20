@@ -1,4 +1,4 @@
-## Oi eu sou a Marcos Gabriel, estudante de ciência da computação!
+## Hello word i'm Marcos Gabriel, estudent of science computation in brazil <3 !
 
  <div>
   <a href="https://github.com/Marcosfranca20">
