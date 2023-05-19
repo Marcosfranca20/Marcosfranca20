@@ -33,5 +33,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marcosfranca20}/count.svg" /></p> 
 <br>
 </div>
-
 ![Snake animation](https://github.com/Marcosfranca20/Marcosfranca20/blob/output/github-contribution-grid-snake.svg)
