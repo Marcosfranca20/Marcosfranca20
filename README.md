@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcos+Gabriel;I'm+21+years+old;I'm+from+Brazil;I+will+Graduate+science+computation;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
  <div>
   <a href="https://github.com/Marcosfranca20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcosfranca20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
