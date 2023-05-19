@@ -25,8 +25,8 @@
   <a href = "mailto:marcosfranca1233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcosfdc21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/Marcosfranca20/Marcosfranca20/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
+![Snake animation](https://github.com/Marcosfranca20/Marcosfranca20/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Marcosfranca20&repo=Marcosfranca20&theme=react)](https://github.com/Marcosfranca20/Marcosfranca20)
