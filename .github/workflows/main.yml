@@ -5,7 +5,7 @@ schedule: # execute every 12 hours
 workflow_dispatch:
 jobs:
 build:
-name: Jobs to datas
+name: Jobs to update datas
 runs-on: ubuntu-latest
 steps:
 # Snake Animation
