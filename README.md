@@ -22,7 +22,7 @@
 
 <br>
 
-<h2> Linguas que possuo conhecimento <h2>
+<h2> Linguagens que tenho conhecimento <h2>
 <div align="center"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -35,7 +35,7 @@
 
 <br>
 
-<!-- Redes sociais e animação -->
+
 <div align="center"> 
   <a href="https://www.instagram.com/francaa_19/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
